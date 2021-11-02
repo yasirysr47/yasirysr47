@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasirysr47
 - 👀 I’m interested in Data Engineering, Machine Learning, Search and Recommendations.
-- 🌱 I’m currently learning BERT Model
+- 🌱 I’m currently learning more DS & Algo, some finance and ML Topics.
 - 💞️ I’m looking to collaborate on media content related project
 - 📫 How to reach me -> yasir123119@gmail.com
 
