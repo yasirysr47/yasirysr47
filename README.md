@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yasirysr47
 - 👀 I’m interested in Data Engineering, Machine Learning, Search and Recommendations.
 - 🌱 I’m currently learning more DS & Algo, some finance and ML Topics.
-- 💞️ I’m looking to collaborate on media content related project
+- 💞️ I’m looking to collaborate on media content related project or fintech projects.
 - 📫 How to reach me -> yasir123119@gmail.com
 
 <!---
